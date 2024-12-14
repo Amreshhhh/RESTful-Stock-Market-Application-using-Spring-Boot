@@ -1,0 +1,4 @@
+com\gbce\stock\market\repository\StockRepositoryImplTest.class
+com\gbce\stock\market\service\StockServiceImplTest.class
+com\gbce\stock\market\resource\GBCEResourceIntegrationTest.class
+com\gbce\stock\market\service\TradeServiceImplTest.class

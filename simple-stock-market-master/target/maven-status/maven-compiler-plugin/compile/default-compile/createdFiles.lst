@@ -1,0 +1,14 @@
+com\gbce\stock\market\exception\StockMarketException.class
+com\gbce\stock\market\repository\StockRepository.class
+com\gbce\stock\market\service\impl\StockServiceImpl.class
+com\gbce\stock\market\exception\TradeException.class
+com\gbce\stock\market\data\Trade.class
+com\gbce\stock\market\StockMarketApplication.class
+com\gbce\stock\market\repository\impl\StockRepositoryImpl.class
+com\gbce\stock\market\service\StockService.class
+com\gbce\stock\market\service\impl\TradeServiceImpl.class
+com\gbce\stock\market\data\Stock.class
+com\gbce\stock\market\resource\GBCEResource.class
+com\gbce\stock\market\data\StockType.class
+com\gbce\stock\market\service\TradeService.class
+com\gbce\stock\market\data\TradeType.class
